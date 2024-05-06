@@ -2,5 +2,4 @@
 
 -eseguiamo il quoziente 
 	-se il resto è 0 il numero è pari quindi scrivi il numero
- 
 	-altrimenti prendi il numero inserito dell'utente, aggiungi 1 e scrivi il risultato
